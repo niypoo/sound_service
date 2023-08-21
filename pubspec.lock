@@ -84,10 +84,10 @@ packages:
     dependency: transitive
     description:
       name: http
-      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
+      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
       url: "https://pub.dev"
     source: hosted
-    version: "0.13.6"
+    version: "1.1.0"
   http_parser:
     dependency: transitive
     description:
@@ -140,10 +140,10 @@ packages:
     dependency: transitive
     description:
       name: plugin_platform_interface
-      sha256: "6a2128648c854906c53fa8e33986fc0247a1116122f9534dd20e3ab9e16a32bc"
+      sha256: "43798d895c929056255600343db8f049921cbec94d31ec87f1dc5c16c01935dd"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.4"
+    version: "2.1.5"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -153,34 +153,34 @@ packages:
     dependency: "direct main"
     description:
       name: soundpool
-      sha256: "4aa6b4950e7853dc7f6318234f12c6f27fe1fa8ee55a002ce7d158bc927f6129"
+      sha256: f070a58fbca2e038fc81362f524bee32ee0c672ebeb28be2e4076489ad48edd1
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.0"
+    version: "2.4.0"
   soundpool_macos:
     dependency: transitive
     description:
       name: soundpool_macos
-      sha256: dd389a629d32e3960fbe55958f2f7e03e074c4987fadf38fbe6c7e0a1ba32528
+      sha256: e0440a19d4e8f344dace336923b369184e91eebbbd8348266f4434b675bd15db
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.0"
+    version: "2.3.0"
   soundpool_platform_interface:
     dependency: transitive
     description:
       name: soundpool_platform_interface
-      sha256: "9787f96b54a12e236cd3715cd2cc4bcd1fc1131e834ea7b295ac849ab4e24eab"
+      sha256: "7c6666e19319151b2036c4fc9b6da3a83f2ebf4097989e6ba1c2b0bfe3612e9f"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.2.0"
   soundpool_web:
     dependency: transitive
     description:
       name: soundpool_web
-      sha256: "5242ebd135c210e6b4239fb2409f2da91af688358e3070c9c33ea625d85b7d22"
+      sha256: "3d1eb8d6cceb8a0aec38ff9aec4fbd11a9a8101d27b27a6eb29305b83d46aee5"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.0"
+    version: "2.3.0"
   source_span:
     dependency: transitive
     description:
@@ -247,4 +247,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.6 <4.0.0"
-  flutter: ">=2.0.0"
+  flutter: ">=3.10.0"
